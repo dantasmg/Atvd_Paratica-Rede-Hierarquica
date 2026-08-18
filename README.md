@@ -1,0 +1,1 @@
+# A03_Paratica-Rede-Hierarquica
