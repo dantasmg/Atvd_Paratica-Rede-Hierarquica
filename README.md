@@ -9,4 +9,8 @@
 6) Devem ser disponibilizados quatro switches de borda, sem qualquer recurso de redundância.
 7) Devem ser disponibilizados quatro computadores desktop, quatro notebooks e um servidor (pode ser qualquer um que escolher) todos conectados com fio nessa rede.
 
+## Print do Resultado
 ![Print Packet Tracer](./Print%20Packet%20Tracer.jpeg)
+
+## EXTRA: Configuração dos Endereços IP
+O teste dos pings foram realizados e concluídos com sucesso!
