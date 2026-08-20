@@ -14,3 +14,6 @@
 
 ## EXTRA: Configuração dos Endereços IP
 O teste dos pings foram realizados e concluídos com sucesso!
+![Teste dos Pings I](./Teste%20dos%20Pings%20I.jpeg)
+
+![Teste de Pings II](./Teste%20de%20Pings%20II.jpeg)
