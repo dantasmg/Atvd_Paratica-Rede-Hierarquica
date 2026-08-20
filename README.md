@@ -9,3 +9,4 @@
 6) Devem ser disponibilizados quatro switches de borda, sem qualquer recurso de redundância.
 7) Devem ser disponibilizados quatro computadores desktop, quatro notebooks e um servidor (pode ser qualquer um que escolher) todos conectados com fio nessa rede.
 
+![Print Packet Tracer](./Print%20Packet%20Tracer.jpeg)
