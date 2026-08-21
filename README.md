@@ -1,6 +1,6 @@
 # A03 Paratica Rede Hierarquica
 ## Objetivo de Resultado:
-### A atividade nvolve apenas a configuração inicial de um cenário no programa Cisco Packet Tracer considerando os seguintes requisitos:
+### O exercício envolve apenas a configuração inicial de um cenário no programa Cisco Packet Tracer considerando os seguintes requisitos:
 1) Não é exigida nenhuma configuração de equipamento neste momento, apenas as ligações físicas.
 2) Deve-se construir uma rede que tenha de forma visível a estrutura hierárquica, respeitando as características de cada camada (núcleo, distribuição e borda).
 3) Deve haver um roteador com duas interfaces fastEthernet, ligando-se a dois switches diferentes.
